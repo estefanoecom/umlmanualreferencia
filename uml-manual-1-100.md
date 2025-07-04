@@ -3118,7 +3118,6 @@ Una realizacion de caso de uso posee una descripcion textual del flujo de succso
 caso de uso. Por tanto, es importante durante el analisis coordinar todos los requisitos sobre unaclase y sus objetos que pueden tener diferentes casos de uso. Para hacerlo, adjuntamosdiagramas de clases a las realizaciones de casos de uso, mostrando sus clases participantes y susrelaciones (vease la Figura 8.11).
 
 8.4.3.2.  Diagramas de interaccion  La secuencia de acciones en un caso de uso co-mienza cuando un actor invoca el caso de uso mediante el envio de algun tipo de mensaje alsistema. Si consideramos el "interior” del sistema, un objeto de interfaz recibira este mensaje delactor. El objeto de interfaz enviara a su vez un mensaje a algun otro objeto, y de esta forma los ob-jetos implicados interactuaran para llevar a cabo el caso de uso. En el analisis preferimos mostrar
-
 y responsabilidades sobre los objetos, y no identificar secuencias de interaccion detalladas y or- esto con diagramas de colaboracion ya que nuestro objetivo fundamental es identificar requisitosdenadas cronol6gicamente (es ese caso, utilizariamos en cambio diagramas de secuencia).
 
 En los diagramas de colaboracion, mostramos las interacciones entre objetos creando enla-ces entre ellos y anadiendo mensajes a esos enlaces. El nombre de un mensaje deberia denotarel proposito del objeto invocante en la interaccion con el objeto invocado.
@@ -7340,5 +7339,6 @@ D-201-32566-7 ● En rustica ● 448 paginas ● @ 1998
 Precise Modeling with UMLJos Warmer y Anneke KleppeAddison-Wesley Object Technology SeriesEl Lenguaje de Restricciones de Objetos (OCL) es un lenguaje notacional nuevo, unsubconjunto del Lenguaje Unificado de Modelado, que permite a los desarrolladores desoftware expresar un conjunto de reglas que gobiernan aspectos muy especificos de unobjeto en aplicaciones orientadas a objetos. Con OCL, los desarrolladores serancapaces de expresar mas facilmente limitaciones unicas y de escribir los detalles debajo nivel que a menudo son necesarios en los disenos software complejos. El enfoquepractico del autor y el uso ilustrativo de ejemplos ayudara a los desarrolladores deaplicaciones a adquirir rapidamente presteza.
 
 0201-37940-6 ● En rustica ● 144 paginas ● @ 1999
+
 
 
